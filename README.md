@@ -14,6 +14,14 @@ Clone this repository into your master node.
 
 https://github.com/nlpriyadarsini/kubernetescluster-using-playbook.git
 
+once it is cloned, get into the directory
+
+cd kubernetescluster-using-playbook
+
+There is a file "hosts" available in "kubernetescluster-using-playbook" directory, Just make your entries of your all kubernetes nodes.
+
+Provide your server details in "env_variables" available in "kubernetescluster-using-playbook" directory.
+
 Deploy the ssh key from master node to other nodes for password less authentication.
 
 ssh-keygen
