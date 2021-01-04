@@ -14,15 +14,6 @@ Clone this repository into your master node.
 
 https://github.com/nlpriyadarsini/kubernetescluster-using-playbook.git
 
-
-once it is cloned, get into the directory
-
-cd kubernetes-and-ansible/centos
-
-There is a file "hosts" available in "centos" directory, Just make your entries of your all kubernetes nodes.
-
-Provide your server details in "env_variables" available in "centos" directory.
-
 Deploy the ssh key from master node to other nodes for password less authentication.
 
 ssh-keygen
