@@ -1,0 +1,8 @@
+[kubernetes-master-nodes]
+kubernetes-master.niroop ansible_host=10.1.1.186
+
+[kubernetes-worker-nodes]
+kubernetes-worker1.niroop ansible_host=10.1.2.237
+kubernetes-worker2.niroop ansible_host=10.1.3.202
+kubernetes-worker3.niroop ansible_host=10.1.1.105
+kubernetes-worker4.niroop ansible_host=10.1.2.218
