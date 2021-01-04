@@ -12,7 +12,7 @@ Internet connection must be enabled in all nodes, required packages will be down
 
 Clone this repository into your master node.
 
-https://github.com/nlpriyadarsini/kubernetescluster-using-ansible.git
+https://github.com/nlpriyadarsini/kubernetescluster-using-playbook.git
 
 
 once it is cloned, get into the directory
